@@ -1,7 +1,7 @@
 import json
 import os
 
-# Path of the folders containing the JSON files
+# Path of the folder containing the JSON files
 path = '../ForCombining/'
 
 # Combining format
